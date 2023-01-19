@@ -31,35 +31,35 @@ Laravel 9 Ecommerce has various features listed below:
 
 
 
-Laravel 9 Ecommerce has various features listed below:</p>
+<p>Laravel 9 Ecommerce has various features listed below:</p>
 
 ##  Admin Side:
 
-Category CRUD</p>
-Product CRUD</p>
-a. Add, Edit, Update, Delete Products</p>
-b. Can add multiple images for the product.</p>
-c. Can add multiple colors for the product</p>
-Brand CRUD - these brands are linked with products</p>
-Color CRUD - these colors are linked with products</p>
-Slider CRUD</p>
-Site Setting (Website Setting)</p>
-a. Basic website details</p>
-b. Social Media links which will be shown in frontend at footer area.</p>
-c. Contact/Office Information links which will be shown in frontend at footer area. </p>
-User Management CRUD with Role</p>
-Order Management</p>
-a. View All Orders List</p>
-b. Filter orders by date and order-status</p>
-c. View each order with user & order details.</p>
-d. Invoice - View each order invoice</p>
-e. Invoice - Download each order invoice as PDF.</p>
-f. Invoice - Mail each order Invoice.</p>
-g. Order- Status - Update your order status (Eg. In-Porgress, Completed, Pending, Cancelled, etc).</p>
-All Statistics on Dashboard</p>
-a. Total Orders, Today Orders, this month order, this year order. </p>
-b. Products, Users, etc.</p>
-</p>
+<p>Category CRUD</p>
+<p>Product CRUD</p>
+<p>a. Add, Edit, Update, Delete Products</p>
+<p>b. Can add multiple images for the product.</p>
+<p>c. Can add multiple colors for the product</p>
+<p>Brand CRUD - these brands are linked with products</p>
+<p>Color CRUD - these colors are linked with products</p>
+<p>Slider CRUD</p>
+<p>Site Setting (Website Setting)</p>
+<p>a. Basic website details</p>
+<p>b. Social Media links which will be shown in frontend at footer area.</p>
+<p>c. Contact/Office Information links which will be shown in frontend at footer area. </p>
+<p>User Management CRUD with Role</p>
+<p>Order Management</p>
+<p>a. View All Orders List</p>
+<p>b. Filter orders by date and order-status</p>
+<p>c. View each order with user & order details.</p>
+<p>d. Invoice - View each order invoice</p>
+<p>e. Invoice - Download each order invoice as PDF.</p>
+<p>f. Invoice - Mail each order Invoice.</p>
+<p>g. Order- Status - Update your order status (Eg. In-Porgress, Completed, Pending, Cancelled, etc).</p>
+<p>All Statistics on Dashboard</p>
+<p>a. Total Orders, Today Orders, this month order, this year order. </p>
+<p>b. Products, Users, etc.</p>
+ 
 ## photo
 
 ![photo](https://user-images.githubusercontent.com/64865917/213421200-0c2fc0dd-b641-43af-9d87-242c50d8aff0.PNG)
