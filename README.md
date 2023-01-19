@@ -10,53 +10,55 @@ Laravel 9 Ecommerce is built in laravel 9 version and MySQL database for the bac
 
 Laravel 9 Ecommerce has various features listed below:
 
-Customer Side:
+##  Customer Side: 
 
-Login and Register
-View all Categories
-View all Products under specific categories.
-Filter all Products by Brands and Price.
-View a single product with an image and its details.
-Select a color for the specific product before adding it to the cart. 
-Product quantity increment/decrement before adding it to the cart.
-Add to Cart.
-Add to Wishlist.
-Display Cart Items.
-Display Wishlist Items.
-Checkout Page.
-Checkout Form validation before placing the order.
-Checkout Payments like - Online Paypal and COD.
-Mail Notification - User gets a Mail Notification once the order is placed. 
-User can view orders.
-User can view each order and its details (like - order status, etc)
-User Profile
-Change Password option
+<p>Login and Register</p>
+<p>View all Categories  </p> 
+<p>View all Products under specific categories.</p>
+<p>Filter all Products by Brands and Price</p>
+<p>View a single product with an image and its details.</p>
+<p>Select a color for the specific product before adding it to the cart. </p>
+<p>Product quantity increment/decrement before adding it to the cart.</p>
+<p>Add to Cart.</p>
+<p>Add to Wishlist.</p>
+<p>Display Cart Items.</p>
+<p>Display Wishlist Items.</p>
+<p>Checkout Page.</p>
+<p>Checkout Form validation before placing the order.</p> 
+<p>Mail Notification - User gets a Mail Notification once the order is placed. </p>
+<p>User can view orders</p>
+<p>User can view each order and its details (like - order status, etc)</p> 
 
 
 
-Laravel 9 Ecommerce has various features listed below:
+Laravel 9 Ecommerce has various features listed below:</p>
 
-Customer Side:
+##  Admin Side:
 
-Login and Register
-View all Categories
-View all Products under specific categories.
-Filter all Products by Brands and Price.
-View a single product with an image and its details.
-Select a color for the specific product before adding it to the cart. 
-Product quantity increment/decrement before adding it to the cart.
-Add to Cart.
-Add to Wishlist.
-Display Cart Items.
-Display Wishlist Items.
-Checkout Page.
-Checkout Form validation before placing the order.
-Checkout Payments like - Online Paypal and COD.
-Mail Notification - User gets a Mail Notification once the order is placed. 
-User can view orders.
-User can view each order and its details (like - order status, etc)
-User Profile
-Change Password option
-
+Category CRUD</p>
+Product CRUD</p>
+a. Add, Edit, Update, Delete Products</p>
+b. Can add multiple images for the product.</p>
+c. Can add multiple colors for the product</p>
+Brand CRUD - these brands are linked with products</p>
+Color CRUD - these colors are linked with products</p>
+Slider CRUD</p>
+Site Setting (Website Setting)</p>
+a. Basic website details</p>
+b. Social Media links which will be shown in frontend at footer area.</p>
+c. Contact/Office Information links which will be shown in frontend at footer area. </p>
+User Management CRUD with Role</p>
+Order Management</p>
+a. View All Orders List</p>
+b. Filter orders by date and order-status</p>
+c. View each order with user & order details.</p>
+d. Invoice - View each order invoice</p>
+e. Invoice - Download each order invoice as PDF.</p>
+f. Invoice - Mail each order Invoice.</p>
+g. Order- Status - Update your order status (Eg. In-Porgress, Completed, Pending, Cancelled, etc).</p>
+All Statistics on Dashboard</p>
+a. Total Orders, Today Orders, this month order, this year order. </p>
+b. Products, Users, etc.</p>
+</p>
 ## Laravel Sponsors
 
