@@ -62,5 +62,23 @@ Laravel 9 Ecommerce has various features listed below:
  
 ## photo
 
-![photo](https://user-images.githubusercontent.com/64865917/213421200-0c2fc0dd-b641-43af-9d87-242c50d8aff0.PNG)
 
+ admin CRUD products
+![admin CRUD products](https://user-images.githubusercontent.com/64865917/213423535-1691f798-7b17-4eec-ab60-38c5c1ace950.PNG)
+
+Admin Dashboard
+
+![Admin Dashboard](https://user-images.githubusercontent.com/64865917/213423641-67147474-3bb1-4c59-9e41-1224badffb56.PNG)
+
+frontend page
+![frontend page](https://user-images.githubusercontent.com/64865917/213423727-17bd6625-b758-4fb3-b686-1d8d6132241a.PNG)
+frontend filter product
+![frontend filter product](https://user-images.githubusercontent.com/64865917/213423929-339f22c4-1b7e-4d51-bdbc-9a9824196d49.PNG)
+
+order invoice 
+![order invoice](https://user-images.githubusercontent.com/64865917/213424001-93a66e75-ce4d-4153-b0d6-7b4ee589f13f.PNG)
+
+
+ checkout page
+  
+![checkout page](https://user-images.githubusercontent.com/64865917/213424148-afcdec9a-041c-4cb7-a3f1-81fd13fbfdeb.PNG)
