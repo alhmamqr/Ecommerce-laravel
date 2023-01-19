@@ -75,6 +75,10 @@ frontend page
 frontend filter product
 ![frontend filter product](https://user-images.githubusercontent.com/64865917/213423929-339f22c4-1b7e-4d51-bdbc-9a9824196d49.PNG)
 
+product item
+   
+![product item](https://user-images.githubusercontent.com/64865917/213424648-197cf0e7-3fd2-4aa6-9fe2-76ba485b43ba.PNG)
+
 order invoice 
 ![order invoice](https://user-images.githubusercontent.com/64865917/213424001-93a66e75-ce4d-4153-b0d6-7b4ee589f13f.PNG)
 
